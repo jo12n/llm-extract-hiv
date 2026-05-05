@@ -1,1 +1,2 @@
-# llm-extract-hiv
+# Comparative Evaluation of Large Language Models for Clinical Summarization and HIV Risk Factor Extraction from Spanish Electronic Health Records
+This repository contains the codebase for automated clinical data extraction from Electronic Health Records (EHRs) using various Large Language Models (LLMs). It includes scripts to evaluate model performance in extracting patient risk factors, as well as a dedicated tool for assessing LLM-generated EHR summaries.

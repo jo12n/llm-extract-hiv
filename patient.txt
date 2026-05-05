@@ -1,0 +1,121 @@
+Informe clínico de Urgencias
+Datos asistenciales
+Esp./Serv.: - URGENCIAS
+URGE - URGENCIAS HOSPITAL 
+País: PAIS_000 
+Edad: 30-40 años Sexo: Varón
+Motivo de Alta: Fin de atención
+Procedencia:
+Otros servicios de urgencias
+Tipo de Consulta:
+Enfermedad
+Motivo de Consulta:
+mareos y nauseas
+Antecedentes:
+Antecedentes neonatales, obstétricos y quirúrgicos:
+No antecedentes neonatales, obstétricos y quirúrgicos de interés
+Alergia a:
+El paciente no presenta alergias conocidas.
+Medicación previa:
+Niega tratamiento habitual.
+Historia actual:
+Varón de 30-40 años. Niega patología cardíaca previa.
+Acude por presentar desde ayer en horas de la noche sensación de inestabilidad, palpitaciones 
+y mareos. 
+Refiere desde las 2 de la madrugada empeoramiento caracterizado por sensación 
+de giro de objetos y aparición de forma progresiva desde las 10 am de fiebre, que no ha mejorado tras toma de 1g de paracetamol.
+A su llegada a SU con gran cortejo vegetativo, se comenta caso con área médica pasando a su 
+cargo.
+Exploración física:
+Temperatura(ºC):38.2, Tensión sistólica(mm Hg):147, Tensión diastólica(mm Hg):98, Frecuencia 
+cardiaca(lat/min):123, Saturación de oxígeno - basal(%):97.
+RCG. Consciente y orientado en persona, tiempo y espacio. diaforesis profusa, palidez 
+cutánea, frialdad distal. 
+AC: arrítmico, no ausculto soplos.
+AP: Murmullo vesicular conservado, sin ruidos sobreañadidos.
+MMII: No edemas ni signos de TVP. Pulsos pedios simétricos y presentes.
+NRL: No focalidad neurológica aguda. No signos meníngeos.
+Resumen de pruebas complementarias:
+Laboratorio:
+Hemograma (Sangre Total-EDTA)
+LEUCOCITOS : 14.5 10^3/µl(4.5 - 11.0);  Neutrófilos %: 86.4 %(50.0 - 70.0);  Linfocitos %: 6.4 
+% (20.0 - 40.0);  Monocitos %: 3.3 %(4.0 - 10.0); Eosinófilos%: 0.9% (< 4.0); Basófilos%: 0.0% ( 
+< 1.5); LUC: 1.1% (< 5.0); Neutrófilos Abs: 12.85 10^3/µL(1.80 - 7.70);  Linfocitos Abs: 0.92 
+10^3/µL(1.00 - 4.80); Monocitos Abs: 0.4 10^3/µL (0.15 - 0.90); Eosinófilos Abs: 0.07 10^3/µL ( 
+< 0.50); Basófilos Abs: 0.0 10^3/µL (< 0.2); HEMATIES : 5.89 10^6/µL(4.50 - 5.50);  HB : 16.1 gr
+/dL(13.0 - 18.0);  HCT : 48.5 %(41.0 - 53.0);  VCM : 95.8 fl(80.0 - 90.0);  HCM : 32.0 pg(26.0 -  
+30.0); CHCM : 34.3 gr/dL(31.0 - 34.0);  RDW (*): 14.4 %(12.0 - 14.0); NRBC (*): 0.000 10^3/uL ( 
+< 0.150); PLAQUETAS: 171 10^3/µL (150 - 400); PCT (*): 0.18% (0.12 - 0.36); VPM (*): 9.6 fL 
+(8.3 - 13.0); PDW (*): 15.3
+Hemostasia (Plasma)
+APTT: 29.1 segundos (23.1 - 38.2); Tiempo de protrombina: 14.9 segundos (11.0 - 17.0); INR: 
+1.02 (ratio) (0.90 - 1.22); Activ.protrombina: 88.4% (70.0 - 130.0); Fibrinógeno (Clauss): 362 mgr
+/dl (200 - 400); Dímero D: 0.46 mg/L (< 0.50);
+B I O Q U I M I C A E N P L A S M A
+Glucosa: 132 mg/dl(74 - 106); Creatinina: 0.98 mg/dl (0.70 - 1.30); Filtrado glomerular  
+estimado (CKD-EPI): 96.39 ml/min/1,73m² (> 60.00); Si el paciente es mujer de raza negra, 
+multiplicar el resultado por 1.153 Si el paciente es hombre de raza negra, multiplicar el resultado 
+por 1.156 Albúmina: 4.1 g/dl(3.2 - 4.8); Calcio: 9.2 mg/dl (8.7 - 10.4); GPT: 23 U/l (10 - 49);  
+LDH: 191 U/l (120 - 246); Suero hemolizado. Considerar posible interferencia CK: 115 U/l (46 - 
+171); Troponina I Ultrasensible.: 4.6 ng/L (< 45.0); Resultado inferior al p99 poblacional. Realizar 
+2ª determinación de troponina a las 3h, solo si sospecha de daño miocárdico agudo Cambio de 
+unidades en la técnica Troponina I Ultrasensible Bilirrubina 
+Total: 0.90 mg/dl(0.30 - 1.20); Sodio: 136 mmol/l (132 - 145); Potasio: 3.3 mmol/l (3.5 - 5.3);  
+Suero hemolizado. Considerar posible interferencia Cloro: 104 mmol/l (98 - 107);
+P R O T E I N A S EN SUERO
+Proteina C Reactiva: 45.3 mg/l (< 10.0);
+G A S O M E T R Í A
+Presion atmosférica (Venosa): 710 mmHg
+GASOMETRÍA VENOSA
+pH (venoso): 7.38 (7.32 - 7.43); pCO2 venoso: 46 mmHg (41 - 52); pO2 venoso : 19.9 mmHg  
+(30.0 - 40.0); HCO3-v (Bic.- v calculado) (*): 24.8 mmol/l (22.0 - 29.0); SBC-v (Bic. estándar) (*): 
+20.2 mmol/l BEb-v (Exceso de base-v) (*): -2.1 mmol/l BEecf-v (Exceso de base-ecf-v) (*): -1.4 
+mmol/l TCO2-v (CO2 total-v) (*): 25.7 mmol/l (22.0 - 26.0);
+Co-oximetría (*)
+Hematocrito (*): 56.00 %(42.00 - 52.00);  Hemoglobina venosa (Co-ox) (*): 14.9 g/dl(12.0 -  
+16.0); Saturación de O2 medida-v (*): 29.2 %(40.0 - 70.0); % Oxihemoglobina-v (*): 26.3 % %  
+Carboxihemoglobina-v (*): 0.6 % % Metahemoglobina-v (*): 0.3 % % Hemoglobina reducida-v 
+(*): 61.9 % (15.0 - 100.0); Sodio (ISE directa): 140 mmol/l (135 - 145); Potasio (ISE directa): 4.1 
+mmol/l (3.6 - 4.8); No se descarta la presencia de hemólisis. Considerar posible interferencia 
+positiva Cloro (ISE directa): 98 mmol/l (95 - 105); Ca iónico (Correg pH=7.4)-gas-venosa: 
+1.12 mmol/l(1.15 - 1.35);  Anion Gap (*): 18.50 (8.00 - 16.00); Contenido de O2 venoso (*): 7.6 
+ml/dl
+Imagen:
+ ICT N. No infiltrados ni consolidaciones.RXTÓRAX
+TAC craneal Hallazgos
+No se observan lesiones focales u ocupacionales ni signos de sangrado intra o extraaxial.
+En la fosa posterior las estructuras troncoencefálicas, el cerebelo y el IV ventrículo, no 
+muestran
+alteraciones significativas.
+Línea media está centrada.
+Sistema ventricular de calibre y morfología normal.
+Adecuada diferenciación sustancia gris-sustancia blanca.
+Ocupación mucosa del seno maxilar izquierdo.
+Con ventana de hueso no se identifican alteraciones significativas.
+Partes blandas y estructuras orbitarias sin hallazgos.
+Conclusión
+Sin signos de patología aguda intracraneal en el momento actual.
+Otras pruebas:
+-  FA con RVR a 148 lpm.ECG :
+-  RS a 72lpm (CV espontánea).:ECG
+Evolución y comentarios:
+**/**/**** **MEDICO**
+Paciente que presenta cuadro de inestabilidad y palpitaciones en contexto de proceso febril de 24h 
+de evolución. En la analítica destaca leucocitosis con neutrofilia y el TAC muestra ocupación del 
+seno maxilar izquierdo, sugiriendo una sinusitis aguda como posible desencadenante de la arritmia.
+Tras tratamiento sintomático y paracetamol, el paciente presenta cardioversión espontánea a ritmo 
+sinusal y se mantiene estable.
+**/**/**** **MEDICO**
+Evolución favorable en boxes.
+Doy alta.
+Diagnóstico principal :
+Primer episodio de FA con CVE espontánea a ritmo sinusal (CHA2DS-VASc 0).
+Síndrome febril con leucocitosis, probablemente secundario a Sinusitis Aguda (confirmada por TAC).
+Tratamiento:
+- Control clínico por su Médico de Atención Primaria en 48-72 horas.
+Fármacos:
+- Amoxicilina/Ácido Clavulánico 875/125mg: 1 comprimido cada 8 horas durante 7 días (para 
+tratar la sinusitis).
+- Paracetamol 1g: 1 comprimido cada 8 horas mientras persista la fiebre o el dolor.
+- Si palpitaciones, mareo o nuevos episodios de dolor torácico acudir a urgencias.
+- Cita en consultas de cardiología.
